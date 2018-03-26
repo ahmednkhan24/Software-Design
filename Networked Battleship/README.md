@@ -1,3 +1,0 @@
-# BattleShip
-
-jwarda4
